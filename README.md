@@ -1,6 +1,5 @@
-<p align=”center”>
-<img scr="https://user-images.githubusercontent.com/70969052/167123916-2fd74561-3334-44da-a28c-e874545fbbab.png">
-</p>
+![banner]("https://user-images.githubusercontent.com/70969052/167123916-2fd74561-3334-44da-a28c-e874545fbbab.png")
+
 
 
 
