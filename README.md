@@ -1,4 +1,4 @@
-![banner]("https://github.com/Polikir/Polikir/blob/main/3D%20Neon%20Virtual%20Classroom%20Google%20Classroom%20Header-2.png")
+[![banner](https://github.com/Polikir/Polikir/blob/main/3D%20Neon%20Virtual%20Classroom%20Google%20Classroom%20Header-2.png)]
 
 
 
