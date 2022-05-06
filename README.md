@@ -1,4 +1,4 @@
-[![banner]("https://user-images.githubusercontent.com/70969052/167123916-2fd74561-3334-44da-a28c-e874545fbbab.png")]
+![banner]("https://github.com/Polikir/Polikir/blob/main/3D%20Neon%20Virtual%20Classroom%20Google%20Classroom%20Header-2.png")
 
 
 
