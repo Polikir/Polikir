@@ -1,13 +1,8 @@
 
 
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,+There!+👋; This+is+Kirill+Golubev....;Nice+to+meet+you!&center=true&size=30&color=black">
-  </a>
-</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=DA44F7&width=435&lines=Hi+everyone;My+name+is+Kirill+Golubev;I+am+a+novice+data+analyst)](https://git.io/typing-svg)
 
-
-![banner](3D-Neon-Virtual-Classroom-Google-Classroom-Header-2.png)
+![banner](images/"3D Neon Virtual Classroom Google Classroom Header-2.png")
 
 
 <br>
