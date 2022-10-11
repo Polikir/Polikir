@@ -4,7 +4,6 @@
 
 ![banner](3D-Neon-Virtual-Classroom-Google-Classroom-Header-2.png)
 
-
 <br>
 <p align="center">
   Hello everyone, I am a novice Data analyst from Moscow.
