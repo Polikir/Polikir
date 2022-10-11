@@ -6,7 +6,8 @@
   </a>
 </h1>
 
-![banner](images/3D Neon Virtual Classroom Google Classroom Header-2.png)
+
+![banner]("images/3D Neon Virtual Classroom Google Classroom Header-2.png")
 
 
 <br>
