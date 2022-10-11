@@ -1,8 +1,8 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=2000&pause=500&color=DA44F7&width=435&lines=Hi+everyone;My+name+is+Kirill+Golubev;I+am+a+novice+data+analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=DA44F7&center=true&vCenter=true&width=435&lines=Hi+everyone;My+name+is+Kirill+Golubev;I+am+a+novice+data+analyst)](https://git.io/typing-svg)
 
-![banner](images/"3D Neon Virtual Classroom Google Classroom Header-2.png")
+![banner](3D-Neon-Virtual-Classroom-Google-Classroom-Header-2.png")
 
 
 <br>
