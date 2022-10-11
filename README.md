@@ -1,6 +1,6 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=500&color=DA44F7&center=true&vCenter=true&width=500&height=100&lines=Hi+everyone;My+name+is+Kirill+Golubev;I+am+a+novice+data+analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1&color=DA44F7&center=true&vCenter=true&width=500&height=100&lines=Hi+everyone;My+name+is+Kirill+Golubev;I+am+a+novice+data+analyst)](https://git.io/typing-svg)
 
 ![banner](3D-Neon-Virtual-Classroom-Google-Classroom-Header-2.png)
 
