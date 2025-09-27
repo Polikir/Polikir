@@ -1,16 +1,16 @@
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1&color=DA44F7&center=true&vCenter=true&width=500&height=100&lines=Hi+everyone;My+name+is+Kirill+Golubev;I+am+a+novice+data+analyst)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&duration=2000&pause=1&color=DA44F7&center=true&vCenter=true&width=500&height=100&lines=Hi+everyone;My+name+is+Kirill+Golubev;I+am+a+data+scientist)](https://git.io/typing-svg)
 
 ![banner](3D-Neon-Virtual-Classroom-Google-Classroom-Header-2.png)
 
 <br>
 <p align="center">
-  Hello everyone, I am a novice Data analyst from Moscow.
+  Hello everyone, I am a Data Scientist from Moscow.
   <br>
   <br>
   <br>
-  🎓 At the moment I am studying in the direction of Software Engineering (Applied Mathematics and Computer Science) at MEPhI
+  🎓 I graduated from the department of Applied Mathematics and Computer Science at MEPhI and now I work as a Senior Data Scientist at T-Bank
   <br>
   <br>
   💻 I love writing code and learn anythings about it
@@ -19,7 +19,7 @@
   <br>
     In addition to studying, I am fond of : ⚽ 🏀 📐 ♖  🛏
  <br>
-    👨🏻‍💻 You can check out my CV <a href="https://drive.google.com/file/d/1QoLo-Wl_rqEqUg-ZzMrcTJciNQ3zsN9X/view?usp=sharing" title="Issues">Here</a>
+    👨🏻‍💻 You can check out my CV <a href="" title="Issues">Here</a>
   <br>
   💬 You can chat with me in telegram :   <a href="t.me/@llirik02468" title="Issues">@llirik02468</a>
   <br>
